@@ -91,16 +91,22 @@ body {
 }
 .buner_btn {
   cursor: pointer;
-  background: var(--blue-color);
-}
-.buner_btn_text {
   font-weight: 500;
   font-size: 16px;
   text-align: center;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--white-color);
+  background: var(--blue-color);
 }
+/* .buner_btn_text {
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--white-color);
+} */
 .buner_h {
   text-align: center;
   font-weight: 700;
@@ -124,6 +130,9 @@ body {
 } */
 
 /* Our Team */
+.our_team_list {
+  background-color: var(--white-color);
+}
 .our_team {
   background: var(--ourteam-back-color);
 }
@@ -143,6 +152,7 @@ body {
   font-size: 20px;
   text-align: center;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: var(--black-color);
 }
 .our_team_job {
