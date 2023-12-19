@@ -119,6 +119,9 @@ body {
 /* .our_ruls {
 
 } */
+.our_ruls_list {
+  background-color: var(--white-color);
+}
 .our_ruls_h {
   font-weight: 500;
   font-size: 20px;
