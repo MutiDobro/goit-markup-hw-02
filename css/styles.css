@@ -151,6 +151,9 @@ body {
 /* Our Portfolio */
 /* .our_prj {
 } */
+.our_prj_list {
+  background-color: var(--white-color);
+}
 .our_prj_h {
   font-size: 36px;
   font-weight: 700;
