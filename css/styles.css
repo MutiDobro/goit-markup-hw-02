@@ -176,6 +176,7 @@ body {
 }
 .our_prj_cards {
   border: 1px solid #e7e9fc;
+  background-color: var(--white-color);
 }
 .our_prj_app {
   font-size: 20px;
