@@ -71,6 +71,10 @@ body {
 }
 .contact_head {
 } */
+.mail_head,
+.tel_head {
+  color: var(--text-color);
+}
 .address {
   font-size: 16px;
   font-style: normal;
