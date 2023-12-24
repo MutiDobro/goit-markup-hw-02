@@ -12,18 +12,11 @@ a {
   text-decoration: none;
   color: var(--black-color);
 }
-.studio_head:hover,
-.port_head:hover,
-.contact_head:hover,
-.mail_head:hover,
-.tel_head:hover {
+.header-link:hover,
+.adress-link:hover {
   color: var(--hover-color);
 }
-.studio_head:focus,
-.port_head:focus,
-.contact_head:focus,
-.mail_head:focus,
-.tel_head:focus,
+.header-link:focus,
 .buner_btn:focus {
   color: var(--hover-color);
 }
@@ -71,8 +64,7 @@ body {
 }
 .contact_head {
 } */
-.mail_head,
-.tel_head {
+.adress-link {
   color: var(--text-color);
 }
 .address {
