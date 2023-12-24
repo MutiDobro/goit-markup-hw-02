@@ -17,6 +17,7 @@ a {
   color: var(--hover-color);
 }
 .header-link:focus,
+.adress-link:focus,
 .buner_btn:focus {
   color: var(--hover-color);
 }
